@@ -1,3 +1,8 @@
+---
+type: post
+title: Buildings
+---
+
 # Buildings
 
 Hi! Buildings are so cool! They even have electricity and water pipes underground.
