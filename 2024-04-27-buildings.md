@@ -1,5 +1,5 @@
 ---
-type: post
+tags: post
 title: Buildings
 ---
 
